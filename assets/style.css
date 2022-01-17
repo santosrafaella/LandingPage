@@ -23,7 +23,11 @@ body {
   
   .formulario {
       background-color: black;
-      overflow: hidden
+      overflow: hidden;
+      max-width:100%;
+      max-height:100%;
+      position:relative;
+      margin:0 auto;
   }
 
   .ml-50 {
@@ -41,4 +45,10 @@ body {
 
   .footer {
     background-color: black;
+    max-width:100%;
+    max-height:100%;
+    position:relative;
+    width:60%;
+    margin:0 auto;
+    text-align:center;
   }
