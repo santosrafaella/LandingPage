@@ -23,6 +23,7 @@ body {
   
   .formulario {
       background-color: black;
+      overflow: hidden
   }
 
   .ml-50 {
