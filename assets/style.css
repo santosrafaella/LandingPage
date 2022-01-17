@@ -1,0 +1,42 @@
+/* inicio logo */
+
+body {
+    font-family: Poppins;
+    background-color: rgb(56, 54, 54);
+  }
+  
+  .navbar {
+    background-color: black;
+  }
+
+  .jumbotron {
+    background-color: black;
+  }
+
+  .cards {
+    background-color: black;
+  }
+
+  .footer {
+    background-color: black;
+  }
+  
+  .video {
+      background-color: black;
+  }
+  
+  .formulario {
+      background-color: black;
+  }
+
+  .ml-50 {
+    margin-left: 50px;
+  }
+
+      .p-30 {
+        padding: 30px;
+  }
+
+  .tm-social {
+    width: 30px;
+    height: 30px;
